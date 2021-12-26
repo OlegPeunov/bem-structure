@@ -1,0 +1,6 @@
+@import url('./_theme/_dark/menu__link_theme_dark.css');
+
+.menu__link {
+    text-decoration: none;
+    color: black;
+}

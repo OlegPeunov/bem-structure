@@ -1,0 +1,8 @@
+@import url('./__link/menu__link.css');
+
+.menu {
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    font-family: Helvetica, Arial, sans-serif;
+}
